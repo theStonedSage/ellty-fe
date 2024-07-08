@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Ellty Frontend assignment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The goal of this assignment is to replicate a specified component using HTML, CSS, and JavaScript (if necessary). Your task involves accurately recreating a component based on the provided design from Figma, ensuring it mirrors the original design's aesthetics and functionality as closely as possible. It is crucial that the result is as pixel-perfect as possible. Additionally, make sure to launch the prototype in Figma to see all the component details.
+
+## Result
+
+Created a fully responsive custom react component for the same.
+
+![Flow](./public/ellty-fe.png)
+
+The Done button imitates a submit action and triggers an alert
 
 ## Available Scripts
 
